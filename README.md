@@ -11,6 +11,8 @@ It helps using a password manager.
 
 Beware : while it helps to use a unique and strong password for each site, that tool make it very easy to steal your master password.
 
+Before compiling, copy `password.h.dist` into `password.h` and change the typed password inside.
+
 # Links
 
  * https://hackaday.io/project/167041-grandma-password-manager-helper
