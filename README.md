@@ -15,11 +15,11 @@ Before compiling, copy `password.h.dist` into `password.h` and change the typed 
 
 # Links
 
- * https://hackaday.io/project/167041-grandma-password-manager-helper
- * https://digistump.com/wiki/digispark/tutorials/connecting
- * https://digistump.com/wiki/digispark/tutorials/basics
- * https://0xdeadcode.se/archives/581
- * https://digistump.com/board/index.php?topic=1145.0
- * https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h
+ * [hackaday page](https://hackaday.io/project/167041-grandma-password-manager-helper)
+ * [Digispark tutorials/connecting](https://digistump.com/wiki/digispark/tutorials/connecting)
+ * [Digispark tutorials/basics](https://digistump.com/wiki/digispark/tutorials/basics)
+ * [How to connect a button](https://digistump.com/board/index.php?topic=1145.0)
+ * [Digispark ATtiny85 – Cheap “USB Rubber Ducky”](https://0xdeadcode.se/archives/581)
+ * [DigiKeyboard.h](https://github.com/digistump/DigisparkArduinoIntegration/blob/master/libraries/DigisparkKeyboard/DigiKeyboard.h)
 
 
